@@ -1,0 +1,98 @@
+[
+  {
+    "brand": "침구 테스트",
+    "category": "ai-models",
+    "concept": "일상 실사 · 편안한 휴식",
+    "industry": "침구·리빙",
+    "date": "2026-10-27",
+    "createdAt": "2026-10-27T08:47:38.797Z",
+    "format": "제품 사용 연출 · 일상 실사",
+    "productName": "화이트 자카드·차콜 메쉬 경추베개",
+    "productImage": "assets/models/pillow/product-01.png",
+    "productReferences": [
+      {
+        "label": "제품 사진 1",
+        "image": "assets/models/pillow/product-01.png"
+      },
+      {
+        "label": "제품 사진 2",
+        "image": "assets/models/pillow/product-02.png"
+      },
+      {
+        "label": "제품 사진 3",
+        "image": "assets/models/pillow/product-03.png"
+      }
+    ],
+    "productSummary": "제품 사진 1·2·3의 화이트 자카드 커버와 차콜 메쉬 측면을 참조했습니다. 자세 참고는 목과 베개의 접촉이 보이는 휴식 구도로만 적용했으며, 건강 효과를 설명하는 사진이 아닌 AI 제품 사용 연출입니다.",
+    "id": "model-pillow-001",
+    "modelNumber": 1,
+    "title": "경추베개 사용샷 · 대한민국 30대 후반 여성",
+    "shortTitle": "여성 38세 · 편안한 휴식",
+    "image": "assets/models/pillow/pillow-kr-woman-38.png",
+    "keywords": [
+      "경추베개",
+      "대한민국",
+      "30대 후반 여성",
+      "편안한 자세"
+    ],
+    "description": "대한민국 38세로 설정한 가상 여성 모델. 일상적인 침실에서 눈을 감고 쉬며 목 아래와 베개의 곡면이 닿는 모습이 보이는 측면 사선 구도입니다.",
+    "copy": "자연스러운 목 윤곽이 보이는 측면 사선 휴식 장면.\n옷 주름과 생활감을 유지한 아이폰 일상 스냅 스타일.",
+    "palette": [
+      "#ece6d9",
+      "#514d48",
+      "#b49f84"
+    ],
+    "modelSpec": "대한민국 · 여성 · 38세(30대 후반)",
+    "width": 1448,
+    "height": 1086,
+    "dimensions": "1448 × 1086 px"
+  },
+  {
+    "brand": "침구 테스트",
+    "category": "ai-models",
+    "concept": "일상 실사 · 편안한 휴식",
+    "industry": "침구·리빙",
+    "date": "2026-10-27",
+    "createdAt": "2026-10-27T08:47:38.797Z",
+    "format": "제품 사용 연출 · 일상 실사",
+    "productName": "화이트 자카드·차콜 메쉬 경추베개",
+    "productImage": "assets/models/pillow/product-01.png",
+    "productReferences": [
+      {
+        "label": "제품 사진 1",
+        "image": "assets/models/pillow/product-01.png"
+      },
+      {
+        "label": "제품 사진 2",
+        "image": "assets/models/pillow/product-02.png"
+      },
+      {
+        "label": "제품 사진 3",
+        "image": "assets/models/pillow/product-03.png"
+      }
+    ],
+    "productSummary": "제품 사진 1·2·3의 화이트 자카드 커버와 차콜 메쉬 측면을 참조했습니다. 자세 참고는 목과 베개의 접촉이 보이는 휴식 구도로만 적용했으며, 건강 효과를 설명하는 사진이 아닌 AI 제품 사용 연출입니다.",
+    "id": "model-pillow-002",
+    "modelNumber": 2,
+    "title": "경추베개 사용샷 · 대한민국 50대 중반 남성",
+    "shortTitle": "남성 55세 · 편안한 휴식",
+    "image": "assets/models/pillow/pillow-kr-man-55.png",
+    "keywords": [
+      "경추베개",
+      "대한민국",
+      "50대 중반 남성",
+      "편안한 자세"
+    ],
+    "description": "대한민국 55세로 설정한 가상 남성 모델. 나이에 맞는 피부결과 흰머리를 살리고, 편안히 누운 목 윤곽과 베개의 접촉이 보이는 낮은 측면 구도로 구성했습니다.",
+    "copy": "목과 베개의 접촉부가 보이는 낮은 측면 휴식 장면.\n자연스러운 주름·혼합 자연광·제품 원단 디테일 유지.",
+    "palette": [
+      "#bac5d6",
+      "#eeebe4",
+      "#46484c"
+    ],
+    "modelSpec": "대한민국 · 남성 · 55세(50대 중반)",
+    "width": 1448,
+    "height": 1086,
+    "dimensions": "1448 × 1086 px"
+  }
+]

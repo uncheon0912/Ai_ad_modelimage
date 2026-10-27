@@ -1,0 +1,27 @@
+{
+  "id": "appgdep_6ae04fca8c688191a64236b12182f00d",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_5abdb346135c81919185cfd5bbebfdab",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T07:16:48.748135+00:00",
+  "commit_sha": "63235688dc82e25e0084b40d09347f2694aadd2d",
+  "new_assets": 6,
+  "total_assets": 9,
+  "creative_ids": [
+    "ebc-004",
+    "ebc-005",
+    "ebc-006",
+    "ebc-007",
+    "ebc-008",
+    "ebc-009"
+  ],
+  "verification": "9 originals loaded in local browser; new style filter, storyboard and detail modal verified; private publication succeeded"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "appgdep_6ae04d3cbdb4819187386a7ae8cd1f28",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_0a1ee378fb4c8191b8a175908def367a",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T07:05:50.114882+00:00",
+  "commit_sha": "ae3d6210e86f300b86fa5f5ea8e71124d73fe2c4",
+  "change": "미니 보드 버튼, 축소 격자와 클릭 확대",
+  "verification": "브라우저에서 3장 동시 표시 및 클릭 확대 확인"
+}

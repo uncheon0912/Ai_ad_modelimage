@@ -1,0 +1,22 @@
+{
+  "id": "appgdep_6ae05d6989b48191989ae981cb26e86d",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_8961b5f9e7bc8191a30a304fc1653cdd",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T08:14:49.534155+00:00",
+  "commit_sha": "31c604ae09ff3922ec0cf044ff629b4ec92a16d2",
+  "changes": [
+    "날짜별 전체 ZIP 다운로드",
+    "이미지 체크박스 및 선택 ZIP 다운로드",
+    "현재 목록 전체 선택과 선택 해제"
+  ],
+  "verification": "ZIP 11/2 original byte identity and CRC validated with Python zipfile; browser selection/view persistence and both download buttons verified."
+}

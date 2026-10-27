@@ -1,0 +1,24 @@
+{
+  "id": "appgdep_6ae0588be90c8191a8ed954a801d98ee",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_9db72968b28c8191882a653c6812c3b9",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T07:54:02.482091+00:00",
+  "commit_sha": "a897354b2ee8a8682b9b0de1e1e66bbbe68f7f38",
+  "changes": [
+    "업체별 AI 모델 카테고리",
+    "제품 원본 및 요청 2명·등록 0장 상태",
+    "릴 글자 그라데이션"
+  ],
+  "requested_models": 2,
+  "delivered_models": 0,
+  "generation_status": "blocked_by_image_tool_for_original_and_user_approved_layered_outfits"
+}

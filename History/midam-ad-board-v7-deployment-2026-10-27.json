@@ -1,0 +1,24 @@
+{
+  "id": "appgdep_6ae05fef2ff88191b2f5b1b49bb99595",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_6d7e3c333bdc8191a386c61a37680a05",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T08:25:36.979582+00:00",
+  "commit_sha": "beaf5459a9d6e0d764b409aca510adba49d8dc2c",
+  "new_assets": [
+    "model-eyewear-003",
+    "model-eyewear-004"
+  ],
+  "total_assets": 13,
+  "style": "사용자 제공 일상 아이폰 프롬프트",
+  "default_guide": "midam-ad-board/docs/iphone-daily-prompt.md",
+  "verification": "New candid versions sorted first; style filter and detail occupation-setting metadata verified in local browser."
+}

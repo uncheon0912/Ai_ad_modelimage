@@ -1,0 +1,68 @@
+[
+  {
+    "brand": "아이웨어 테스트",
+    "category": "ai-models",
+    "concept": "일상 아이폰 스냅",
+    "industry": "패션·아이웨어",
+    "date": "2026-10-27",
+    "createdAt": "2026-10-27T08:21:25.237Z",
+    "format": "일상 아이폰 스냅 · AI 생성",
+    "dimensions": "1122 × 1402 px",
+    "productName": "블랙·골드 뿔테 안경",
+    "productImage": "assets/models/eyewear-front.jpg",
+    "version": "일상 아이폰 v2",
+    "id": "model-eyewear-003",
+    "modelNumber": 3,
+    "title": "아이폰 일상 · 여성 카페 운영자",
+    "shortTitle": "여성 · 카페에서 우유 스티밍",
+    "image": "assets/models/eyewear-female-cafe-iphone-v2.png",
+    "keywords": [
+      "일상 아이폰",
+      "여성 모델",
+      "카페 운영자",
+      "카메라 비응시"
+    ],
+    "description": "기존 여성 가상 모델의 얼굴과 안경을 참조한 일상 버전. 우유를 스티밍하는 업무 순간을 동료가 휴대폰으로 기록한 듯 구성했습니다. 카페 운영자는 장면 설정입니다.",
+    "copy": "우유 스티밍에 집중하는 자연스러운 시선과 손 동작.\n니트 주름 · 앞치마 사용감 · 작업 도구 · 비대칭 자연광.",
+    "palette": [
+      "#ded3bf",
+      "#51483b",
+      "#171a1d"
+    ],
+    "modelSpec": "대한민국 · 여성 · 26세(20대 중반)",
+    "occupation": "카페 운영자 / 바리스타 · 장면 설정"
+  },
+  {
+    "brand": "아이웨어 테스트",
+    "category": "ai-models",
+    "concept": "일상 아이폰 스냅",
+    "industry": "패션·아이웨어",
+    "date": "2026-10-27",
+    "createdAt": "2026-10-27T08:21:25.237Z",
+    "format": "일상 아이폰 스냅 · AI 생성",
+    "dimensions": "1122 × 1402 px",
+    "productName": "블랙·골드 뿔테 안경",
+    "productImage": "assets/models/eyewear-front.jpg",
+    "version": "일상 아이폰 v2",
+    "id": "model-eyewear-004",
+    "modelNumber": 4,
+    "title": "아이폰 일상 · 남성 온라인 마케터",
+    "shortTitle": "남성 · 사무실에서 콘텐츠 검토",
+    "image": "assets/models/eyewear-male-marketer-iphone-v2.png",
+    "keywords": [
+      "일상 아이폰",
+      "남성 모델",
+      "온라인 마케터",
+      "업무 스냅"
+    ],
+    "description": "기존 남성 가상 모델의 얼굴과 안경을 참조한 일상 버전. 노트북과 메모로 콘텐츠를 검토하는 모습을 즉흥적인 업무 스냅으로 구성했습니다. 온라인 마케터는 장면 설정입니다.",
+    "copy": "노트북 트랙패드와 메모를 사용하며 콘텐츠 검토에 집중.\n책상 생활감 · 니트 주름 · 잔머리 · 혼합 실내광.",
+    "palette": [
+      "#1e2736",
+      "#b8a487",
+      "#d8d8cf"
+    ],
+    "modelSpec": "대한민국 · 남성 · 27세(20대 중반)",
+    "occupation": "온라인 마케터 / 콘텐츠 운영자 · 장면 설정"
+  }
+]

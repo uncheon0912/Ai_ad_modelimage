@@ -1,0 +1,602 @@
+{
+  "snapshotDate": "2026-10-27",
+  "sourceHead": "a8413b73c141ca3324e5eccddd2edecc264adaca",
+  "generatedImages": 15,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size": 89,
+      "sha256": "98df1191666cc5b23c8dfc7f329c6e71199c03dccdd471967646160ea04288b1"
+    },
+    {
+      "path": ".gitignore",
+      "size": 205,
+      "sha256": "a8197b1bd75616eee5852fa080b132e0644badcfa01e6acccbc20b9080983dc6"
+    },
+    {
+      "path": "ad_image/ebc_meta_01_premium.png",
+      "size": 1864001,
+      "sha256": "f9f8943ecb28d801bf4fe49b99f79213ec00f6410861528867ef8d4cc75d6cd1"
+    },
+    {
+      "path": "ad_image/ebc_meta_02_products.png",
+      "size": 1954619,
+      "sha256": "4648796f0f064919a82288af9fecccdfc572242143b698056e18a25d83189ca7"
+    },
+    {
+      "path": "ad_image/ebc_meta_03_platform.png",
+      "size": 1670718,
+      "sha256": "96acd89e9f246af8b82a82dab79c1b13bb073623c29bad04548926605f321eed"
+    },
+    {
+      "path": "ad_image/ebc_meta_04_tech_orange.png",
+      "size": 2067388,
+      "sha256": "089cb5374bd896ea35e70d5b9f32ce2879b7106a7fe5285ed18df5bb1cf16304"
+    },
+    {
+      "path": "ad_image/ebc_meta_05_pink_portal.png",
+      "size": 1891182,
+      "sha256": "8e0acc7dc7371dd417504be64f72bf068eee3094c2f60103236fde8a95c76d42"
+    },
+    {
+      "path": "ad_image/ebc_meta_06_lounge_app.png",
+      "size": 1941882,
+      "sha256": "e96fd182493caf948bac5278ea9f3cc4e85af59ffc33088527b87be943ebe9f6"
+    },
+    {
+      "path": "ad_image/ebc_meta_07_yellow_delivery.png",
+      "size": 2051531,
+      "sha256": "e357a65e3e611c711c31871c945f5ef10739dd17e51e3555cfa5a92ebce45e6f"
+    },
+    {
+      "path": "ad_image/ebc_meta_08_lemon_minimal.png",
+      "size": 1468888,
+      "sha256": "5b915ecf0c50cc586c26541a3082051934e17c036a7470f1975589cb390d4f86"
+    },
+    {
+      "path": "ad_image/ebc_meta_09_fantasy_choice.png",
+      "size": 2512083,
+      "sha256": "173e44ce32fca693347d1aa3bc1fde1da7a2e776ce52d630fff5d4150748e821"
+    },
+    {
+      "path": "ad_image/ebc-batch-02-metadata.json",
+      "size": 5311,
+      "sha256": "7c9e0861f91d71e118c262fdaa0cce013c51154998fd17cb3bda581bb8cd00f7"
+    },
+    {
+      "path": "ad_image/ebc-batch-02-prompts.md",
+      "size": 14743,
+      "sha256": "0ead48adbfbfc4667516dddfdc05bd0ba7bb52f5a2cf3f5118fa2dab9be55655"
+    },
+    {
+      "path": "ad_image/generation-prompts.md",
+      "size": 6092,
+      "sha256": "500ad01b4b3313bd352d7de86823a8f1ae4f9709d367894cb872891f14671946"
+    },
+    {
+      "path": "ad_image/History.md",
+      "size": 2253,
+      "sha256": "f7500b0056c8f4702c572f5688b04c95bf80a9baebc73a5288868a759eb52fbc"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 1424,
+      "sha256": "12d621b069159534dbd5c00f6f47b19624760855537e6cfa8c3c06a8354ff5b5"
+    },
+    {
+      "path": "ai_models/2026-10-27-black-gold-eyewear/eyewear-kr-female-26.png",
+      "size": 2566105,
+      "sha256": "0d90371abe74981b76f9aff159619929b71dc76adeae7c6b8a29a7e967e482d8"
+    },
+    {
+      "path": "ai_models/2026-10-27-black-gold-eyewear/eyewear-kr-male-27.png",
+      "size": 2301700,
+      "sha256": "83826cb35cfc0511bd1345a7b07b3aaaece6fc1ab0f201b2a730f9d782851a01"
+    },
+    {
+      "path": "ai_models/2026-10-27-black-gold-eyewear/generation-prompts.md",
+      "size": 5033,
+      "sha256": "146bd31c2beae53db44eeb58441cd0b74d6571d5aca955f5f8befe9f3330dfdc"
+    },
+    {
+      "path": "ai_models/2026-10-27-black-gold-eyewear/History.md",
+      "size": 1088,
+      "sha256": "9605a5f0def01e3d5516117e9113ad33b6f3fee4a1581e7f434e703ab0cb7331"
+    },
+    {
+      "path": "ai_models/2026-10-27-black-gold-eyewear/metadata.json",
+      "size": 2442,
+      "sha256": "3536f32e738102224250223305a44fe95241c25ae2a09304aff43ea151ac59b5"
+    },
+    {
+      "path": "ai_models/2026-10-27-black-gold-eyewear/product-angle.jpg",
+      "size": 48000,
+      "sha256": "92d4fb9d281b7f90edb4ed3d627b6888fa8b81bef0f0ea0a896aa9b39cf5f342"
+    },
+    {
+      "path": "ai_models/2026-10-27-black-gold-eyewear/product-front.jpg",
+      "size": 39153,
+      "sha256": "b3f31e735ba47e153f72c28ca3d6809dd1add8bffc63744e130fa893290c93cd"
+    },
+    {
+      "path": "ai_models/2026-10-27-black-gold-eyewear/product-styled.jpg",
+      "size": 114488,
+      "sha256": "10ba913cf555a433e546b4831b896e6e8a67ece9be47e75517d5cf4f5ea456a4"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/generation-prompts.md",
+      "size": 8848,
+      "sha256": "cba60a0625b464199b8bdc86c777a5a6f267ff456795d9ac2153a94cbd81fc0c"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/History.md",
+      "size": 1262,
+      "sha256": "e94d18db2c41b79c3c0c74fbfd68343cc5d1d5bfdef72352cb4c58b61b50c82e"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/metadata.json",
+      "size": 4055,
+      "sha256": "2afaefedfff2515b1e84e64757a981561aba9aeebf0788ba60f12511e7defad7"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/pillow-kr-man-55.png",
+      "size": 2379752,
+      "sha256": "304682ec110196690b6098e0a0fbcda98c7c7a378e2308e4810f1d3561e3e95a"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/pillow-kr-woman-38.png",
+      "size": 2404035,
+      "sha256": "cc4fa49258581c67c737040ec06ecd33f12b10f0a9d0d5493ad5e0ab27561a06"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/pose-reference-01.png",
+      "size": 638440,
+      "sha256": "c846cc967cb6b30cb8083f170ad8b7c1b9f13bcfa068b8b409a9598ed796149e"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/pose-reference-02.png",
+      "size": 416018,
+      "sha256": "3fa6f2112ad883b0b5011f328420542cdb333dba9fae81e395eddd15f83da4c1"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/product-01.png",
+      "size": 617111,
+      "sha256": "d3ca1ac854cfa52187af84e10945349760aa4337e3a2e89dd9562789187111a9"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/product-02.png",
+      "size": 260769,
+      "sha256": "29b87cda5e63184b521ea40656ec5f755d6f5d7a3e16c46626c320d879ed503a"
+    },
+    {
+      "path": "ai_models/2026-10-27-contour-pillow/product-03.png",
+      "size": 468130,
+      "sha256": "3c4f3ba2ff7259a8936f7c7f84b751f0fa5c7f67e44bffd1d053e74dabc4db62"
+    },
+    {
+      "path": "ai_models/2026-10-27-eyewear-iphone-daily/eyewear-female-cafe-iphone-v2.png",
+      "size": 2552342,
+      "sha256": "dbf2239c16fab5f3f3580513d39e93c2b0ffae9c8b516537b09b1e6f54c7f152"
+    },
+    {
+      "path": "ai_models/2026-10-27-eyewear-iphone-daily/eyewear-male-marketer-iphone-v2.png",
+      "size": 2135772,
+      "sha256": "b6889fc99eae30ede32f89a8e9dfc9733028a3110ee5fd1e652f9c29ed6ec62a"
+    },
+    {
+      "path": "ai_models/2026-10-27-eyewear-iphone-daily/generation-prompts.md",
+      "size": 8854,
+      "sha256": "02b7889256208da6f5d809ca1b9046dc2d0fbff06aefd0e3315805e49ac7da51"
+    },
+    {
+      "path": "ai_models/2026-10-27-eyewear-iphone-daily/History.md",
+      "size": 1104,
+      "sha256": "f2c36ff793b64168bacbc8f688ed31fc9c228be207b7d4cf6c49194ddf1b8b98"
+    },
+    {
+      "path": "ai_models/2026-10-27-eyewear-iphone-daily/metadata.json",
+      "size": 2926,
+      "sha256": "c8e3c89d9fa21def41d10c50759137e457cabdd19dea6fab2d6bc8524e662487"
+    },
+    {
+      "path": "ai_models/2026-10-27-ivory-set/generation-prompts.md",
+      "size": 5481,
+      "sha256": "648a24a778916c05ccbcf04cf09a6ecb67f45fbda6e966a0dd5a543942bf26be"
+    },
+    {
+      "path": "ai_models/2026-10-27-ivory-set/History.md",
+      "size": 1391,
+      "sha256": "b1bd69484a943a21c7de24876ee1121440ea046eb9755d41e23093d1e62494a3"
+    },
+    {
+      "path": "ai_models/2026-10-27-ivory-set/layered-lookbook-prompts.md",
+      "size": 3880,
+      "sha256": "422faab50a9b60dc8cfb19304a5f3c2978dac05d1e3de9cecaafd35734cd1bc6"
+    },
+    {
+      "path": "ai_models/2026-10-27-ivory-set/product-original.png",
+      "size": 230328,
+      "sha256": "be7c0ad8235e747cfac0b8988d9088abb35d1d3d2352db2ef1a15959779cf810"
+    },
+    {
+      "path": "ai_models/AGENTS.md",
+      "size": 540,
+      "sha256": "add6ec43f994b35e32bd94b488f8ad2feb0d500fdddb473015bc8ada268f56e2"
+    },
+    {
+      "path": "ai_models/iphone-daily-prompt.md",
+      "size": 7119,
+      "sha256": "5e65c94e8a590235f03ccc3577145426c4188354dd4f72e573e504433741b081"
+    },
+    {
+      "path": "create-manifest.mjs",
+      "size": 998,
+      "sha256": "1328fd557d42f723cebad524978a94a35503ecae38709099446b6e28a549fda1"
+    },
+    {
+      "path": "HANDOFF.md",
+      "size": 3202,
+      "sha256": "429073b6830ad661e5468edcaacc104e49c924b0d733f072e26136af5e60115a"
+    },
+    {
+      "path": "History.md",
+      "size": 936,
+      "sha256": "4fc4618452514b9c30b20a01a477799db07aba2cd40f8874a4cfd77a48c83e35"
+    },
+    {
+      "path": "History/midam-ad-board-deployment-2026-10-27.json",
+      "size": 918,
+      "sha256": "95239647813ba82a07799b840f07c9ff44e98331863b81f009e80757bda37ab9"
+    },
+    {
+      "path": "History/midam-ad-board-history.bundle",
+      "size": 31944455,
+      "sha256": "cf3eff2813a083bf481db1b882cd6847067dc7fd958da3c80417411ff2bc1692"
+    },
+    {
+      "path": "History/midam-ad-board-v2-deployment-2026-10-27.json",
+      "size": 820,
+      "sha256": "d4b0aeb2640482fe73f9329a4f32d1292fac48591ebf2061638f4a50e1b2ec73"
+    },
+    {
+      "path": "History/midam-ad-board-v3-deployment-2026-10-27.json",
+      "size": 966,
+      "sha256": "eda8b2fd109e2e6d9a439bf6315ffa99c84376fdb367ffc83209c4a1246b081a"
+    },
+    {
+      "path": "History/midam-ad-board-v4-deployment-2026-10-27.json",
+      "size": 963,
+      "sha256": "b2575ac4112b83a6d7bf1951bf783ab74c84f382c4e605611e3d5da8407469bd"
+    },
+    {
+      "path": "History/midam-ad-board-v5-deployment-2026-10-27.json",
+      "size": 964,
+      "sha256": "176f06294d4550fc81bd2802d7d83b2613e7a8b99412525f27bbe0cb743aa6c7"
+    },
+    {
+      "path": "History/midam-ad-board-v6-deployment-2026-10-27.json",
+      "size": 1001,
+      "sha256": "fa863c67bee9383923dea46958a341eea6db37015595a4805c8cd024dac5051f"
+    },
+    {
+      "path": "History/midam-ad-board-v7-deployment-2026-10-27.json",
+      "size": 1022,
+      "sha256": "c74b85a7ab2e34cdaf9fa11aa29fe3f81f64358048606b674ae455ede500845f"
+    },
+    {
+      "path": "History/midam-ad-board-v8-deployment-2026-10-27.json",
+      "size": 967,
+      "sha256": "da6fb8315aa37b6c647f9bed55f3bc017b53fe49dd0e04ad252e84cccd8333c0"
+    },
+    {
+      "path": "History/midam-ad-board-v9-deployment-2026-10-27.json",
+      "size": 971,
+      "sha256": "9a2862c6db4a8369e019fbc0197db1f44a7af9352d581372b5c23cc000332445"
+    },
+    {
+      "path": "History/screenshots/midam-ad-board-9-assets-preview.png",
+      "size": 85207,
+      "sha256": "435518dea508e2cda4b5b412d2b4a4211afdaad83ca9f389ecb6e4c1800aa277"
+    },
+    {
+      "path": "History/screenshots/midam-ad-board-preview.png",
+      "size": 60457,
+      "sha256": "9b5aa01d77c144a8c6d35a10d9eda5cfe875555c9f25bca0c65502b5f9b7fb38"
+    },
+    {
+      "path": "History/screenshots/midam-ai-model-category-preview.png",
+      "size": 20994,
+      "sha256": "10972d6de921e2461e6ce4528aff75e6352cc66fa9600e7888a9ab02236a6256"
+    },
+    {
+      "path": "History/screenshots/midam-download-controls-preview.png",
+      "size": 34357,
+      "sha256": "bd075f1d87c40f0a4a7682b5c4e3161674c046bd89c7d2fcc3151d0b77393d11"
+    },
+    {
+      "path": "History/screenshots/midam-eyewear-models-preview.png",
+      "size": 44385,
+      "sha256": "5aaf9be6efbe58af6a83b473f9587571d59d3dd2ce95af209492f487245bebbc"
+    },
+    {
+      "path": "History/screenshots/midam-iphone-daily-models-preview.png",
+      "size": 60208,
+      "sha256": "46d3ec71b4847c1aef888aca3859097a264d6170bd4650472dc061915dbefbed"
+    },
+    {
+      "path": "History/screenshots/midam-mini-board-preview.png",
+      "size": 45113,
+      "sha256": "01f209a27cbc5d83eda2ee9d3d1c46b2bb009a3b87862537f1a5c22bfdab7022"
+    },
+    {
+      "path": "History/screenshots/midam-pillow-models-preview.png",
+      "size": 45239,
+      "sha256": "952756759fbad5a3971a6cc531790fabaec89b5a901d9b31e49a332928a1337f"
+    },
+    {
+      "path": "History/screenshots/midam-product-first-preview.png",
+      "size": 50575,
+      "sha256": "dedd47a8b8ab0c0a881b05ba7c28dfe0de4511a5f2f19e917a0e08457ac810ba"
+    },
+    {
+      "path": "midam-ad-board/.openai/hosting.json",
+      "size": 106,
+      "sha256": "288cd154591f6cd8916e1b55b4a980d2880948bdcf4c7718ae06ee6d30b81cc3"
+    },
+    {
+      "path": "midam-ad-board/AGENTS.md",
+      "size": 798,
+      "sha256": "12d20e12b49359ecc2efbb72879799e05a50aa40c3894e682bc41a8d201dfe45"
+    },
+    {
+      "path": "midam-ad-board/check-downloads.mjs",
+      "size": 1059,
+      "sha256": "594a5092548210b8fffe0cf550b8126cc9e468fc271fd0a1f985983def124d5e"
+    },
+    {
+      "path": "midam-ad-board/dist/ai-models.css",
+      "size": 3141,
+      "sha256": "ffdeb2773e2b6b938dc851e5148ab7d4ed2719333003fdb43a76a87edad04c0e"
+    },
+    {
+      "path": "midam-ad-board/dist/app.js",
+      "size": 21584,
+      "sha256": "09efcc3441f29a81a9218cb6e4b473f0d097401a6835103d3029aa1152b13bb7"
+    },
+    {
+      "path": "midam-ad-board/dist/assets.json",
+      "size": 19484,
+      "sha256": "660ddaeec5658b6733ce973b3e9756eba977643a5485767e69483b236966a5af"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_01_premium.png",
+      "size": 1864001,
+      "sha256": "f9f8943ecb28d801bf4fe49b99f79213ec00f6410861528867ef8d4cc75d6cd1"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_02_products.png",
+      "size": 1954619,
+      "sha256": "4648796f0f064919a82288af9fecccdfc572242143b698056e18a25d83189ca7"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_03_platform.png",
+      "size": 1670718,
+      "sha256": "96acd89e9f246af8b82a82dab79c1b13bb073623c29bad04548926605f321eed"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_04_tech_orange.png",
+      "size": 2067388,
+      "sha256": "089cb5374bd896ea35e70d5b9f32ce2879b7106a7fe5285ed18df5bb1cf16304"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_05_pink_portal.png",
+      "size": 1891182,
+      "sha256": "8e0acc7dc7371dd417504be64f72bf068eee3094c2f60103236fde8a95c76d42"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_06_lounge_app.png",
+      "size": 1941882,
+      "sha256": "e96fd182493caf948bac5278ea9f3cc4e85af59ffc33088527b87be943ebe9f6"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_07_yellow_delivery.png",
+      "size": 2051531,
+      "sha256": "e357a65e3e611c711c31871c945f5ef10739dd17e51e3555cfa5a92ebce45e6f"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_08_lemon_minimal.png",
+      "size": 1468888,
+      "sha256": "5b915ecf0c50cc586c26541a3082051934e17c036a7470f1975589cb390d4f86"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/ebc_meta_09_fantasy_choice.png",
+      "size": 2512083,
+      "sha256": "173e44ce32fca693347d1aa3bc1fde1da7a2e776ce52d630fff5d4150748e821"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/eyewear-angle.jpg",
+      "size": 48000,
+      "sha256": "92d4fb9d281b7f90edb4ed3d627b6888fa8b81bef0f0ea0a896aa9b39cf5f342"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/eyewear-female-cafe-iphone-v2.png",
+      "size": 2552342,
+      "sha256": "dbf2239c16fab5f3f3580513d39e93c2b0ffae9c8b516537b09b1e6f54c7f152"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/eyewear-front.jpg",
+      "size": 39153,
+      "sha256": "b3f31e735ba47e153f72c28ca3d6809dd1add8bffc63744e130fa893290c93cd"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/eyewear-kr-female-26.png",
+      "size": 2566105,
+      "sha256": "0d90371abe74981b76f9aff159619929b71dc76adeae7c6b8a29a7e967e482d8"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/eyewear-kr-male-27.png",
+      "size": 2301700,
+      "sha256": "83826cb35cfc0511bd1345a7b07b3aaaece6fc1ab0f201b2a730f9d782851a01"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/eyewear-male-marketer-iphone-v2.png",
+      "size": 2135772,
+      "sha256": "b6889fc99eae30ede32f89a8e9dfc9733028a3110ee5fd1e652f9c29ed6ec62a"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/eyewear-styled.jpg",
+      "size": 114488,
+      "sha256": "10ba913cf555a433e546b4831b896e6e8a67ece9be47e75517d5cf4f5ea456a4"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/ivory-set-product.png",
+      "size": 230328,
+      "sha256": "be7c0ad8235e747cfac0b8988d9088abb35d1d3d2352db2ef1a15959779cf810"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/pillow/pillow-kr-man-55.png",
+      "size": 2379752,
+      "sha256": "304682ec110196690b6098e0a0fbcda98c7c7a378e2308e4810f1d3561e3e95a"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/pillow/pillow-kr-woman-38.png",
+      "size": 2404035,
+      "sha256": "cc4fa49258581c67c737040ec06ecd33f12b10f0a9d0d5493ad5e0ab27561a06"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/pillow/product-01.png",
+      "size": 617111,
+      "sha256": "d3ca1ac854cfa52187af84e10945349760aa4337e3a2e89dd9562789187111a9"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/pillow/product-02.png",
+      "size": 260769,
+      "sha256": "29b87cda5e63184b521ea40656ec5f755d6f5d7a3e16c46626c320d879ed503a"
+    },
+    {
+      "path": "midam-ad-board/dist/assets/models/pillow/product-03.png",
+      "size": 468130,
+      "sha256": "3c4f3ba2ff7259a8936f7c7f84b751f0fa5c7f67e44bffd1d053e74dabc4db62"
+    },
+    {
+      "path": "midam-ad-board/dist/downloads.css",
+      "size": 2409,
+      "sha256": "04b92bd1233ddc2ac13dc3eb022a1986b3e058fb6a941c7e286b165116fb2e66"
+    },
+    {
+      "path": "midam-ad-board/dist/index.html",
+      "size": 10577,
+      "sha256": "8f978e74000217b0ca40c8e1a8df1388cdd5664ea8d688dfa2a5ed43f9de3551"
+    },
+    {
+      "path": "midam-ad-board/dist/mini-board.css",
+      "size": 979,
+      "sha256": "a55b38a3a9dd3b7d7786ccf4dc2a5d975ac5d336fa6ec2e4841d865459728c31"
+    },
+    {
+      "path": "midam-ad-board/dist/styles.css",
+      "size": 19801,
+      "sha256": "e3f265abfce440731034cf6ff17b92d3e2c8832a80a96b528c768f31f1d386bf"
+    },
+    {
+      "path": "midam-ad-board/dist/zip.js",
+      "size": 2916,
+      "sha256": "a916524e186ae3098ea43b6de6ba9c040e75466796747c31ebde094b274a0373"
+    },
+    {
+      "path": "midam-ad-board/docs/iphone-daily-prompt.md",
+      "size": 7119,
+      "sha256": "5e65c94e8a590235f03ccc3577145426c4188354dd4f72e573e504433741b081"
+    },
+    {
+      "path": "midam-ad-board/History.md",
+      "size": 9748,
+      "sha256": "e981356c9f74a346e86009953876a007ad39efdccf8b2c2532d9c2a965fd6dd8"
+    },
+    {
+      "path": "midam-ad-board/README.md",
+      "size": 2131,
+      "sha256": "b0bfd140bf49c6cd8fdabb1d33df1c668a9d03e0d04bb8d16ebd59c03cab2843"
+    },
+    {
+      "path": "midam-ad-board/verify.mjs",
+      "size": 1117,
+      "sha256": "8ca784ae8bdd0c238f505fbbcebaeb44f45bb06bbc078a29a0efea96a8809961"
+    },
+    {
+      "path": "README.md",
+      "size": 3298,
+      "sha256": "4856f1f037e4ed1ef1bf6ddd9eee1d1ce845c21de8724bf0184a08606799150e"
+    },
+    {
+      "path": "references/ebc/ad-image-10.jpg",
+      "size": 24000,
+      "sha256": "e2bb3c087e42ab3bd788f3283e8cc29d60358ce6fbd64d2cddc892b7e746141e"
+    },
+    {
+      "path": "references/ebc/ad-image-3.jpg",
+      "size": 39413,
+      "sha256": "313769d42f7219eac5f3bc037ae7d0d51ddf197ae934ae969a6cf3ac9c9fd496"
+    },
+    {
+      "path": "references/ebc/ad-image-4.jpg",
+      "size": 46795,
+      "sha256": "01398ab51af60452c5bab4561f0e8f82825cbf156324f8d9a5c0a774a64d7c4b"
+    },
+    {
+      "path": "references/ebc/ad-image-5.jpg",
+      "size": 82644,
+      "sha256": "d675816c800dc6cd486cae54d67355dcc5f65b2faa9aac408eeee8bb68ba01f9"
+    },
+    {
+      "path": "references/ebc/ad-image-6.jpg",
+      "size": 27176,
+      "sha256": "9a9d09b4b38474ae63ca55e2ca165d57b51d75475a12cdcf6469ee79ce774ab1"
+    },
+    {
+      "path": "references/ebc/ad-image-7.jpg",
+      "size": 76566,
+      "sha256": "7beb6b9d8de25dacc572a9e192fbce103f28fc6ba1be52d0277ecb9e64480691"
+    },
+    {
+      "path": "references/ebc/ad-image-8.jpg",
+      "size": 25782,
+      "sha256": "1e6aab94501480447f1926644bead3a31db89130056e311d989ef8881e594d38"
+    },
+    {
+      "path": "references/ebc/ad-image-9.jpg",
+      "size": 53185,
+      "sha256": "5db305cb9ce1cfda12b9f0daeed922e26d5f32f74d4f6718e3888ea8e8986ff3"
+    },
+    {
+      "path": "references/ebc/ad-video-2.mp4",
+      "size": 2689771,
+      "sha256": "caba81dfce894164c9ab233186ed8b5ae2878c62716f73e70c06c80314beb127"
+    },
+    {
+      "path": "references/model-pose-examples/underwear-pose-01.png",
+      "size": 854876,
+      "sha256": "34a186bd30a9128ce793fb93cf4c49da17d7e0db9afcf839d4b25ed3d46cc38d"
+    },
+    {
+      "path": "references/model-pose-examples/underwear-pose-02.png",
+      "size": 1338252,
+      "sha256": "9febe3aa52d96572c273aa5243df6b378e68af76504978de69482132158b308c"
+    },
+    {
+      "path": "serve-board.mjs",
+      "size": 1820,
+      "sha256": "3ed0a9a77887a786f41fad524a1cafb1b5244c763c82135c15ffeb389692ed80"
+    },
+    {
+      "path": "START_BOARD.cmd",
+      "size": 577,
+      "sha256": "f7ebb3ce0bdd780f79f76f2b0235963ad96b440c1dd20816b963ca435b6c3ce5"
+    },
+    {
+      "path": "verify-transfer.py",
+      "size": 849,
+      "sha256": "1576db01c75f766310c9897ef487717a1a5fad4a89b5bb7c54db538461a1933c"
+    }
+  ]
+}

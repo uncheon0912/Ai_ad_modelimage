@@ -1,0 +1,62 @@
+[
+  {
+    "id": "model-eyewear-001",
+    "brand": "아이웨어 테스트",
+    "category": "ai-models",
+    "modelNumber": 1,
+    "title": "안경 착용샷 · 대한민국 20대 여성",
+    "shortTitle": "여성 모델 · 자연광 정면",
+    "concept": "자연광 실사 · 정면 포즈",
+    "industry": "패션·아이웨어",
+    "date": "2026-10-27",
+    "image": "assets/models/eyewear-kr-female-26.png",
+    "keywords": [
+      "대한민국",
+      "20대 중반",
+      "여성 모델",
+      "블랙·골드 안경"
+    ],
+    "description": "가상의 대한민국 26세 여성 모델. 베이지 재킷과 자연광을 활용해 검은 안경 프레임과 금색 장식이 잘 보이는 정면 중심 착용샷입니다.",
+    "copy": "정면 중심의 전문 아이웨어 모델 포즈.\n베이지 재킷 · 자연광 · 피부 질감 유지.",
+    "format": "아이웨어 룩북 · 실사 착용샷",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#151719",
+      "#d4b779",
+      "#ded4c5"
+    ],
+    "productName": "블랙·골드 뿔테 안경",
+    "productImage": "assets/models/eyewear-front.jpg",
+    "modelSpec": "대한민국 · 여성 · 26세(20대 중반)"
+  },
+  {
+    "id": "model-eyewear-002",
+    "brand": "아이웨어 테스트",
+    "category": "ai-models",
+    "modelNumber": 2,
+    "title": "안경 착용샷 · 대한민국 20대 남성",
+    "shortTitle": "남성 모델 · 자연광 측면",
+    "concept": "자연광 실사 · 3/4 포즈",
+    "industry": "패션·아이웨어",
+    "date": "2026-10-27",
+    "image": "assets/models/eyewear-kr-male-27.png",
+    "keywords": [
+      "대한민국",
+      "20대 중반",
+      "남성 모델",
+      "블랙·골드 안경"
+    ],
+    "description": "가상의 대한민국 27세 남성 모델. 네이비 니트와 차콜 재킷을 착용하고, 안경 전면과 다리의 금색 디테일이 함께 보이도록 가볍게 각도를 준 착용샷입니다.",
+    "copy": "가벼운 3/4 각도의 전문 아이웨어 모델 포즈.\n차콜 재킷 · 네이비 니트 · 자연광 실사.",
+    "format": "아이웨어 룩북 · 실사 착용샷",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#111b2b",
+      "#40454b",
+      "#c4aa68"
+    ],
+    "productName": "블랙·골드 뿔테 안경",
+    "productImage": "assets/models/eyewear-front.jpg",
+    "modelSpec": "대한민국 · 남성 · 27세(20대 중반)"
+  }
+]

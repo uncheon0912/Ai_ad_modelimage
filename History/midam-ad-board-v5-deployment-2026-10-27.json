@@ -1,0 +1,24 @@
+{
+  "id": "appgdep_6ae05b5eced4819185bd03912f33634f",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_3ca97aa0b16881918dfaf72ad2cea959",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T08:06:12.777381+00:00",
+  "commit_sha": "d7173bc3a5f08ce012313aa6dbabbeb705c52270",
+  "models": 2,
+  "total_assets": 11,
+  "assets": [
+    "model-eyewear-001",
+    "model-eyewear-002"
+  ],
+  "product": "블랙·골드 뿔테 안경",
+  "verification": "Local browser model cards, detail metadata, next navigation, product reference links verified. Private deployment succeeded."
+}

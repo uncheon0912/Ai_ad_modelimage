@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-27",
+  "company": "미담릴공장",
+  "id": "appgdep_6ae04bf3452c81918909a3cda60b757f",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_60a0f5b6ce908191a69d3835630ee354",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T07:00:24.379633+00:00",
+  "commit_sha": "d90dfaaf5402aaddb9d27e886c64601ec133bca5",
+  "workspace": "C:\\1codex\\newtest_1\\suda\\midam-ad-board",
+  "verification": "Local browser search/style filter/storyboard/modal/next asset verified; deployed owner-private gate confirmed."
+}

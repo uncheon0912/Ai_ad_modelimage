@@ -1,0 +1,23 @@
+{
+  "id": "appgdep_6ae0662debf88191b2720563ecd1c006",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_8149fb625d7c81919ff1ded6c07559b9",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T08:52:15.082194+00:00",
+  "commit_sha": "a8413b73c141ca3324e5eccddd2edecc264adaca",
+  "new_assets": [
+    "model-pillow-001",
+    "model-pillow-002"
+  ],
+  "total_assets": 15,
+  "models": "대한민국 여성 38세 / 남성 55세",
+  "verification": "Product-first order, landscape ratio, selection count, detail metadata and eyewear/pillow header switching verified in local browser."
+}

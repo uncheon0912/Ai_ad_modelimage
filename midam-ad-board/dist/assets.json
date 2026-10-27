@@ -1,0 +1,521 @@
+[
+  {
+    "id": "ebc-001",
+    "brand": "EBC",
+    "title": "글로벌 시장을, 나의 거래 화면으로",
+    "shortTitle": "글로벌 시장을, 나의 거래 화면으로",
+    "concept": "프리미엄 인물형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_01_premium.png",
+    "keywords": [
+      "글로벌 시장",
+      "외환",
+      "금",
+      "프리미엄"
+    ],
+    "description": "아이보리 수트의 인물과 야경을 대비시켜 브랜드의 전문적인 인상을 표현한 광고 시안입니다.",
+    "copy": "글로벌 시장을,\n나의 거래 화면으로.",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#061321",
+      "#0562ff",
+      "#eee8dc"
+    ]
+  },
+  {
+    "id": "ebc-002",
+    "brand": "EBC",
+    "title": "외환부터 금까지, 시장을 보는 선택의 폭",
+    "shortTitle": "외환부터 금까지, 선택의 폭",
+    "concept": "강한 타이포·3D형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_02_products.png",
+    "keywords": [
+      "거래 상품",
+      "귀금속",
+      "에너지",
+      "타이포그래피"
+    ],
+    "description": "큰 타이포그래피와 금괴·지구본의 입체적인 구성으로 다양한 CFD 거래 상품을 소개합니다.",
+    "copy": "외환부터 금까지,\n시장을 보는 선택의 폭.",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#080e15",
+      "#0055ff",
+      "#d6a33d"
+    ]
+  },
+  {
+    "id": "ebc-003",
+    "brand": "EBC",
+    "title": "글로벌 트레이딩, 도구부터 살펴보세요",
+    "shortTitle": "글로벌 트레이딩, 도구부터",
+    "concept": "밝은 3D 일러스트형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_03_platform.png",
+    "keywords": [
+      "거래 플랫폼",
+      "EBC App",
+      "MT4·MT5",
+      "3D 일러스트"
+    ],
+    "description": "밝은 블루 톤과 스마트폰·지구본 일러스트로 EBC의 거래 플랫폼을 소개하는 광고 시안입니다.",
+    "copy": "글로벌 트레이딩,\n도구부터 살펴보세요.",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#e6f2ff",
+      "#075fff",
+      "#071139"
+    ]
+  },
+  {
+    "id": "ebc-004",
+    "brand": "EBC",
+    "title": "시장을 보는 시선, 도구에서 달라집니다",
+    "shortTitle": "시장을 보는 시선, 도구에서 달라집니다",
+    "concept": "오렌지 테크 인물형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_04_tech_orange.png",
+    "keywords": [
+      "시장 분석",
+      "트레이딩 도구",
+      "테크",
+      "오렌지"
+    ],
+    "description": "오렌지 단색 배경과 안경을 쓴 인물, 반투명 분석 패널을 조합해 거래 도구에 대한 관심을 유도합니다.",
+    "copy": "시장을 보는 시선,\n도구에서 달라집니다.",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#ff7d15",
+      "#fcf5e8",
+      "#102139"
+    ],
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "id": "ebc-005",
+    "brand": "EBC",
+    "title": "글로벌 시장, 어떤 상품이 궁금하세요?",
+    "shortTitle": "글로벌 시장, 어떤 상품이 궁금하세요?",
+    "concept": "핑크 팝아트 포털형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_05_pink_portal.png",
+    "keywords": [
+      "글로벌 시장",
+      "상품 탐색",
+      "핑크",
+      "팝아트"
+    ],
+    "description": "핑크 포털에서 지구본이 등장하는 장면과 만화 말풍선을 활용한 상품 탐색형 소재입니다.",
+    "copy": "글로벌 시장,\n어떤 상품이 궁금하세요?",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1092 × 1440 px",
+    "palette": [
+      "#f3a1bd",
+      "#141623",
+      "#faffed"
+    ],
+    "width": 1092,
+    "height": 1440
+  },
+  {
+    "id": "ebc-006",
+    "brand": "EBC",
+    "title": "나의 일상에, 글로벌 트레이딩 도구",
+    "shortTitle": "나의 일상에, 글로벌 트레이딩 도구",
+    "concept": "오렌지 라운지 앱형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_06_lounge_app.png",
+    "keywords": [
+      "EBC App",
+      "모바일",
+      "라이프스타일",
+      "플랫폼"
+    ],
+    "description": "오렌지 라운지와 큰 스마트폰을 배치해 EBC App의 모바일 사용 장면을 직관적으로 전달합니다.",
+    "copy": "나의 일상에,\n글로벌 트레이딩 도구.",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#ec6b1c",
+      "#fff4e4",
+      "#163858"
+    ],
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "id": "ebc-007",
+    "brand": "EBC",
+    "title": "딩동! 글로벌 시장 소식이 도착했어요",
+    "shortTitle": "딩동! 글로벌 시장 소식이 도착했어요",
+    "concept": "옐로 알림·메신저형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_07_yellow_delivery.png",
+    "keywords": [
+      "시장 분석",
+      "금융 교육",
+      "알림",
+      "옐로"
+    ],
+    "description": "밝은 옐로 배경과 메신저 캐릭터의 역동적인 장면으로 시장 분석·교육 콘텐츠를 소개합니다.",
+    "copy": "딩동!\n글로벌 시장 소식이\n도착했어요.",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#ffc831",
+      "#f46b16",
+      "#19263a"
+    ],
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "id": "ebc-008",
+    "brand": "EBC",
+    "title": "복잡한 글로벌 시장, 상품부터 차근차근",
+    "shortTitle": "복잡한 글로벌 시장, 상품부터 차근차근",
+    "concept": "레몬 미니멀 3D형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_08_lemon_minimal.png",
+    "keywords": [
+      "거래 상품",
+      "외환",
+      "금·에너지",
+      "미니멀"
+    ],
+    "description": "레몬색 여백과 세 가지 금융 오브제를 활용해 거래 상품을 차근차근 탐색하는 방향을 표현합니다.",
+    "copy": "복잡한 글로벌 시장,\n상품부터\n차근차근.",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#ffffb2",
+      "#734827",
+      "#f5a02e"
+    ],
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "id": "ebc-009",
+    "brand": "EBC",
+    "title": "외환·금·주가지수, 어떤 시장이 궁금하세요?",
+    "shortTitle": "외환·금·주가지수, 어떤 시장이 궁금하세요?",
+    "concept": "판타지 캐릭터 선택형",
+    "industry": "금융·CFD 트레이딩",
+    "date": "2026-10-27",
+    "image": "assets/ebc_meta_09_fantasy_choice.png",
+    "keywords": [
+      "외환·금·주가지수",
+      "판타지",
+      "캐릭터",
+      "상품 선택"
+    ],
+    "description": "각기 다른 시장을 상징하는 세 명의 판타지 캐릭터를 배치해 상품 선택에 대한 호기심을 유도합니다.",
+    "copy": "외환 · 금 · 주가지수\n어떤 시장이\n궁금하세요?",
+    "format": "메타 피드 · 세로형",
+    "dimensions": "1092 × 1440 px",
+    "palette": [
+      "#152540",
+      "#bd9b5c",
+      "#e9e2d6"
+    ],
+    "width": 1092,
+    "height": 1440
+  },
+  {
+    "id": "model-eyewear-001",
+    "brand": "아이웨어 테스트",
+    "category": "ai-models",
+    "modelNumber": 1,
+    "title": "안경 착용샷 · 대한민국 20대 여성",
+    "shortTitle": "여성 모델 · 자연광 정면",
+    "concept": "자연광 실사 · 정면 포즈",
+    "industry": "패션·아이웨어",
+    "date": "2026-10-27",
+    "image": "assets/models/eyewear-kr-female-26.png",
+    "keywords": [
+      "대한민국",
+      "20대 중반",
+      "여성 모델",
+      "블랙·골드 안경"
+    ],
+    "description": "가상의 대한민국 26세 여성 모델. 베이지 재킷과 자연광을 활용해 검은 안경 프레임과 금색 장식이 잘 보이는 정면 중심 착용샷입니다.",
+    "copy": "정면 중심의 전문 아이웨어 모델 포즈.\n베이지 재킷 · 자연광 · 피부 질감 유지.",
+    "format": "아이웨어 룩북 · 실사 착용샷",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#151719",
+      "#d4b779",
+      "#ded4c5"
+    ],
+    "productName": "블랙·골드 뿔테 안경",
+    "productImage": "assets/models/eyewear-front.jpg",
+    "modelSpec": "대한민국 · 여성 · 26세(20대 중반)",
+    "productReferences": [
+      {
+        "label": "정면 원본",
+        "image": "assets/models/eyewear-front.jpg"
+      },
+      {
+        "label": "측면 원본",
+        "image": "assets/models/eyewear-angle.jpg"
+      },
+      {
+        "label": "연출 원본",
+        "image": "assets/models/eyewear-styled.jpg"
+      }
+    ],
+    "productSummary": "같은 안경과 가상 모델을 참조한 일상 아이폰 버전과 이전 룩북을 함께 보관합니다. 안경 프레임·브리지·금색 장식과 다리 디테일을 제품 원본과 비교하세요."
+  },
+  {
+    "id": "model-eyewear-002",
+    "brand": "아이웨어 테스트",
+    "category": "ai-models",
+    "modelNumber": 2,
+    "title": "안경 착용샷 · 대한민국 20대 남성",
+    "shortTitle": "남성 모델 · 자연광 측면",
+    "concept": "자연광 실사 · 3/4 포즈",
+    "industry": "패션·아이웨어",
+    "date": "2026-10-27",
+    "image": "assets/models/eyewear-kr-male-27.png",
+    "keywords": [
+      "대한민국",
+      "20대 중반",
+      "남성 모델",
+      "블랙·골드 안경"
+    ],
+    "description": "가상의 대한민국 27세 남성 모델. 네이비 니트와 차콜 재킷을 착용하고, 안경 전면과 다리의 금색 디테일이 함께 보이도록 가볍게 각도를 준 착용샷입니다.",
+    "copy": "가벼운 3/4 각도의 전문 아이웨어 모델 포즈.\n차콜 재킷 · 네이비 니트 · 자연광 실사.",
+    "format": "아이웨어 룩북 · 실사 착용샷",
+    "dimensions": "1122 × 1402 px",
+    "palette": [
+      "#111b2b",
+      "#40454b",
+      "#c4aa68"
+    ],
+    "productName": "블랙·골드 뿔테 안경",
+    "productImage": "assets/models/eyewear-front.jpg",
+    "modelSpec": "대한민국 · 남성 · 27세(20대 중반)",
+    "productReferences": [
+      {
+        "label": "정면 원본",
+        "image": "assets/models/eyewear-front.jpg"
+      },
+      {
+        "label": "측면 원본",
+        "image": "assets/models/eyewear-angle.jpg"
+      },
+      {
+        "label": "연출 원본",
+        "image": "assets/models/eyewear-styled.jpg"
+      }
+    ],
+    "productSummary": "같은 안경과 가상 모델을 참조한 일상 아이폰 버전과 이전 룩북을 함께 보관합니다. 안경 프레임·브리지·금색 장식과 다리 디테일을 제품 원본과 비교하세요."
+  },
+  {
+    "brand": "아이웨어 테스트",
+    "category": "ai-models",
+    "concept": "일상 아이폰 스냅",
+    "industry": "패션·아이웨어",
+    "date": "2026-10-27",
+    "createdAt": "2026-10-27T08:21:25.237Z",
+    "format": "일상 아이폰 스냅 · AI 생성",
+    "dimensions": "1122 × 1402 px",
+    "productName": "블랙·골드 뿔테 안경",
+    "productImage": "assets/models/eyewear-front.jpg",
+    "version": "일상 아이폰 v2",
+    "id": "model-eyewear-003",
+    "modelNumber": 3,
+    "title": "아이폰 일상 · 여성 카페 운영자",
+    "shortTitle": "여성 · 카페에서 우유 스티밍",
+    "image": "assets/models/eyewear-female-cafe-iphone-v2.png",
+    "keywords": [
+      "일상 아이폰",
+      "여성 모델",
+      "카페 운영자",
+      "카메라 비응시"
+    ],
+    "description": "기존 여성 가상 모델의 얼굴과 안경을 참조한 일상 버전. 우유를 스티밍하는 업무 순간을 동료가 휴대폰으로 기록한 듯 구성했습니다. 카페 운영자는 장면 설정입니다.",
+    "copy": "우유 스티밍에 집중하는 자연스러운 시선과 손 동작.\n니트 주름 · 앞치마 사용감 · 작업 도구 · 비대칭 자연광.",
+    "palette": [
+      "#ded3bf",
+      "#51483b",
+      "#171a1d"
+    ],
+    "modelSpec": "대한민국 · 여성 · 26세(20대 중반)",
+    "occupation": "카페 운영자 / 바리스타 · 장면 설정",
+    "productReferences": [
+      {
+        "label": "정면 원본",
+        "image": "assets/models/eyewear-front.jpg"
+      },
+      {
+        "label": "측면 원본",
+        "image": "assets/models/eyewear-angle.jpg"
+      },
+      {
+        "label": "연출 원본",
+        "image": "assets/models/eyewear-styled.jpg"
+      }
+    ],
+    "productSummary": "같은 안경과 가상 모델을 참조한 일상 아이폰 버전과 이전 룩북을 함께 보관합니다. 안경 프레임·브리지·금색 장식과 다리 디테일을 제품 원본과 비교하세요."
+  },
+  {
+    "brand": "아이웨어 테스트",
+    "category": "ai-models",
+    "concept": "일상 아이폰 스냅",
+    "industry": "패션·아이웨어",
+    "date": "2026-10-27",
+    "createdAt": "2026-10-27T08:21:25.237Z",
+    "format": "일상 아이폰 스냅 · AI 생성",
+    "dimensions": "1122 × 1402 px",
+    "productName": "블랙·골드 뿔테 안경",
+    "productImage": "assets/models/eyewear-front.jpg",
+    "version": "일상 아이폰 v2",
+    "id": "model-eyewear-004",
+    "modelNumber": 4,
+    "title": "아이폰 일상 · 남성 온라인 마케터",
+    "shortTitle": "남성 · 사무실에서 콘텐츠 검토",
+    "image": "assets/models/eyewear-male-marketer-iphone-v2.png",
+    "keywords": [
+      "일상 아이폰",
+      "남성 모델",
+      "온라인 마케터",
+      "업무 스냅"
+    ],
+    "description": "기존 남성 가상 모델의 얼굴과 안경을 참조한 일상 버전. 노트북과 메모로 콘텐츠를 검토하는 모습을 즉흥적인 업무 스냅으로 구성했습니다. 온라인 마케터는 장면 설정입니다.",
+    "copy": "노트북 트랙패드와 메모를 사용하며 콘텐츠 검토에 집중.\n책상 생활감 · 니트 주름 · 잔머리 · 혼합 실내광.",
+    "palette": [
+      "#1e2736",
+      "#b8a487",
+      "#d8d8cf"
+    ],
+    "modelSpec": "대한민국 · 남성 · 27세(20대 중반)",
+    "occupation": "온라인 마케터 / 콘텐츠 운영자 · 장면 설정",
+    "productReferences": [
+      {
+        "label": "정면 원본",
+        "image": "assets/models/eyewear-front.jpg"
+      },
+      {
+        "label": "측면 원본",
+        "image": "assets/models/eyewear-angle.jpg"
+      },
+      {
+        "label": "연출 원본",
+        "image": "assets/models/eyewear-styled.jpg"
+      }
+    ],
+    "productSummary": "같은 안경과 가상 모델을 참조한 일상 아이폰 버전과 이전 룩북을 함께 보관합니다. 안경 프레임·브리지·금색 장식과 다리 디테일을 제품 원본과 비교하세요."
+  },
+  {
+    "brand": "침구 테스트",
+    "category": "ai-models",
+    "concept": "일상 실사 · 편안한 휴식",
+    "industry": "침구·리빙",
+    "date": "2026-10-27",
+    "createdAt": "2026-10-27T08:47:38.797Z",
+    "format": "제품 사용 연출 · 일상 실사",
+    "productName": "화이트 자카드·차콜 메쉬 경추베개",
+    "productImage": "assets/models/pillow/product-01.png",
+    "productReferences": [
+      {
+        "label": "제품 사진 1",
+        "image": "assets/models/pillow/product-01.png"
+      },
+      {
+        "label": "제품 사진 2",
+        "image": "assets/models/pillow/product-02.png"
+      },
+      {
+        "label": "제품 사진 3",
+        "image": "assets/models/pillow/product-03.png"
+      }
+    ],
+    "productSummary": "제품 사진 1·2·3의 화이트 자카드 커버와 차콜 메쉬 측면을 참조했습니다. 자세 참고는 목과 베개의 접촉이 보이는 휴식 구도로만 적용했으며, 건강 효과를 설명하는 사진이 아닌 AI 제품 사용 연출입니다.",
+    "id": "model-pillow-001",
+    "modelNumber": 1,
+    "title": "경추베개 사용샷 · 대한민국 30대 후반 여성",
+    "shortTitle": "여성 38세 · 편안한 휴식",
+    "image": "assets/models/pillow/pillow-kr-woman-38.png",
+    "keywords": [
+      "경추베개",
+      "대한민국",
+      "30대 후반 여성",
+      "편안한 자세"
+    ],
+    "description": "대한민국 38세로 설정한 가상 여성 모델. 일상적인 침실에서 눈을 감고 쉬며 목 아래와 베개의 곡면이 닿는 모습이 보이는 측면 사선 구도입니다.",
+    "copy": "자연스러운 목 윤곽이 보이는 측면 사선 휴식 장면.\n옷 주름과 생활감을 유지한 아이폰 일상 스냅 스타일.",
+    "palette": [
+      "#ece6d9",
+      "#514d48",
+      "#b49f84"
+    ],
+    "modelSpec": "대한민국 · 여성 · 38세(30대 후반)",
+    "width": 1448,
+    "height": 1086,
+    "dimensions": "1448 × 1086 px"
+  },
+  {
+    "brand": "침구 테스트",
+    "category": "ai-models",
+    "concept": "일상 실사 · 편안한 휴식",
+    "industry": "침구·리빙",
+    "date": "2026-10-27",
+    "createdAt": "2026-10-27T08:47:38.797Z",
+    "format": "제품 사용 연출 · 일상 실사",
+    "productName": "화이트 자카드·차콜 메쉬 경추베개",
+    "productImage": "assets/models/pillow/product-01.png",
+    "productReferences": [
+      {
+        "label": "제품 사진 1",
+        "image": "assets/models/pillow/product-01.png"
+      },
+      {
+        "label": "제품 사진 2",
+        "image": "assets/models/pillow/product-02.png"
+      },
+      {
+        "label": "제품 사진 3",
+        "image": "assets/models/pillow/product-03.png"
+      }
+    ],
+    "productSummary": "제품 사진 1·2·3의 화이트 자카드 커버와 차콜 메쉬 측면을 참조했습니다. 자세 참고는 목과 베개의 접촉이 보이는 휴식 구도로만 적용했으며, 건강 효과를 설명하는 사진이 아닌 AI 제품 사용 연출입니다.",
+    "id": "model-pillow-002",
+    "modelNumber": 2,
+    "title": "경추베개 사용샷 · 대한민국 50대 중반 남성",
+    "shortTitle": "남성 55세 · 편안한 휴식",
+    "image": "assets/models/pillow/pillow-kr-man-55.png",
+    "keywords": [
+      "경추베개",
+      "대한민국",
+      "50대 중반 남성",
+      "편안한 자세"
+    ],
+    "description": "대한민국 55세로 설정한 가상 남성 모델. 나이에 맞는 피부결과 흰머리를 살리고, 편안히 누운 목 윤곽과 베개의 접촉이 보이는 낮은 측면 구도로 구성했습니다.",
+    "copy": "목과 베개의 접촉부가 보이는 낮은 측면 휴식 장면.\n자연스러운 주름·혼합 자연광·제품 원단 디테일 유지.",
+    "palette": [
+      "#bac5d6",
+      "#eeebe4",
+      "#46484c"
+    ],
+    "modelSpec": "대한민국 · 남성 · 55세(50대 중반)",
+    "width": 1448,
+    "height": 1086,
+    "dimensions": "1448 × 1086 px"
+  }
+]

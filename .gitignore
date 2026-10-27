@@ -1,0 +1,13 @@
+# Local credentials and generated development artifacts
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.sites-runtime/
+.sites-checkout*/
+*-deploy.tar.gz
+*-download-test.zip

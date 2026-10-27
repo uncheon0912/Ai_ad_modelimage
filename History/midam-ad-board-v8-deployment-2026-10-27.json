@@ -1,0 +1,22 @@
+{
+  "id": "appgdep_6ae0638446ac8191867e20d2fbc63190",
+  "project_id": "appgprj_6ae04a31be148191a7e75158f3f26df3",
+  "title": "미담릴공장 | 광고 소재 보드",
+  "version_id": "appgprj_6ae04a31be148191a7e75158f3f26df3~appgver_959b90788c8081918643c02f5b3e1aeb",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://midam-creative-board.inbyeol.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae04a31be148191a7e75158f3f26df3",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-27T08:40:50.857225+00:00",
+  "commit_sha": "d96050aac589849901af9267a5b1fd06088ba0d4",
+  "changes": [
+    "제품 원본 카드를 관련 모델보다 앞에 배치",
+    "같은 제품 중복 제거",
+    "모델/제품 원본 개수 구분"
+  ],
+  "verification": "Browser confirmed product first in mini/story views, filtered 1 reference + 2 models, select-all counts models only."
+}
